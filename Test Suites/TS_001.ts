@@ -16,6 +16,24 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC_001</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d919b814-579b-4557-9a44-b9a2e98ab2c9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c0ad1192-bd12-4983-9fc8-81394e37bd3e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cc39fec8-fd2a-41fd-8aa7-f657130972d5</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>11c73fbc-8f6b-44a6-b4db-f4027d34ee8f</guid>
