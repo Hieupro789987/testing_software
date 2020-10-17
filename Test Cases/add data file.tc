@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>add data file</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18b538ed-2cb5-4f85-82cb-aa4f10a1d93d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2811586d-1e56-4f98-8e84-2a6d31e662cc</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed72e485-870d-48d5-bede-1ade1c14a914</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
